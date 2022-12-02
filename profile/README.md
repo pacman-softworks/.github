@@ -1,7 +1,6 @@
 # Pacman Softworks || https://discord.gg/rohub
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
 
 -  **About:** Development team :fire:
 -  **Languages:** Python, Rust, JavaScript, Go :zap:
